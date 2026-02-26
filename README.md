@@ -47,36 +47,8 @@ const pulkit = {
 
 ---
 
-<h2 align="center">📊 GitHub Stats 📊</h2>
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pulkit2403&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=CDD6F4" height="175"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pulkit2403&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=CDD6F4" height="175"/>
-
-</div>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=pulkit2403&theme=midnight-purple&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7&sideNums=CDD6F4&dates=888" width="55%"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pulkit2403&theme=react-dark&bg_color=0D1117&color=A855F7&line=A855F7&point=ffffff&area=true&hide_border=true" width="100%"/>
-</div>
-
----
-
-<div align="center">
-
-### 🏆 Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=pulkit2403&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="70%"/>
 
